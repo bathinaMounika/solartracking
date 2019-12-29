@@ -1,4 +1,5 @@
 # AUTOMATICSOLARTRACKINGSYSTEM
+![title](https://user-images.githubusercontent.com/53783352/71556598-e1b23100-2a60-11ea-8b71-2ebe52138442.jpg)
 
  <h2>description</h2>
 <h3>research behind this</h3>
