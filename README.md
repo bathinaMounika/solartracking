@@ -1,6 +1,5 @@
 # AUTOMATICSOLARTRACKINGSYSTEM
 
-
  <h2>description</h2>
 <h3>research behind this</h3>
 <p>We know that the major problem in  our India is scarcity of electricity. For the generation of electricity we are going for renewable energy sources due to this there is a unbalance in eco system.
@@ -11,14 +10,14 @@ So we are introducing our project i.e., AUTOMATIC SOLAR TRACKING SYSTEM.</p>
  <h3>introduction</p>
  </p>The earth receives 16 x 10^18units of energy from the sun annually. which is 20,000 times the requirement of mankind on the earth.this energy is used by Solar panels to convert light energy into electrical energy.But the existing solar panels are faced to the  single side they can track energy only when sun is in particular direction so the energy in the remaining direction is wastedd so for efficoent usage of solar energy we designed a solar power generation system using moving  solar panel in 180 deg.By this we can track the solar radiations effectively.</p>
  
- <h3>circuit</h3>
+
+![block](https://user-images.githubusercontent.com/53783352/71556551-24bfd480-2a60-11ea-9927-90d5e5a6ecf5.jpg)
+<h3>block diagram</h3>
+
  
-
- <h3>block diagram</h3>
-
- <h3>circuit diagram</h3>
  
  ![circuit](https://user-images.githubusercontent.com/53783352/71556539-e75b4700-2a5f-11ea-894d-df334605d8ea.jpg)
+ <h3>circuit diagram</h3>
 
  <h3>components required</h3>
  1.Power supply unit
