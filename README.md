@@ -151,7 +151,7 @@ The microcontroller controlls the rotation of stepper motor according to inputs 
 This is also saves money as there is no need to pay for energy used.  <br/>
 Solar tracker can generate more energy than normal solar panel because it tracks more amount of solar energy.  <br/>
 there are many kinds of solar trackers like single axis and dual axis they are fitted easily at all places.  <br/></p>
-<h3>/applications</h3>
+<h3>applications</h3>
 <p>This panels can be used to power the traffic light and street lights.<br/><br/>
 These can be used in  home to power the appliance using  solar power.<br/>
 *These can be used in industries as more energy can be saved by rotating the panel.<br/>
