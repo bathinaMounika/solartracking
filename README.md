@@ -89,7 +89,10 @@ It prevent circuit from thermal shutdown.
 The L293D is designed to provide bidirectional drive currents of up to 600-mA at voltages from 4.5 V to 36 v.
 This device is designed to drive inductive loads such as relays, solenoids, dc and bipolar stepping motor.
 <br/>
+
 role:interface between thr motors and microcontroller</p>
+ ![driver](https://user-images.githubusercontent.com/53783352/71556611-f989b500-2a60-11ea-99cb-847b420da542.jpg)
+
 <h3>About LDR</h3>
 <p>LDR stands for light dependent resistor.
 In this resistance decreases with increase in intensity of  light.
@@ -98,6 +101,7 @@ Made of high resistance element.
   <br/>
     Role of this in our project:-
 It senses the sun light gives the signals to the microcontroller.</p>
+![ldr](https://user-images.githubusercontent.com/53783352/71556650-4a99a900-2a61-11ea-9531-06593ed8f364.jpg)
 <h3>About solar panel</h3>
 <p>Solar panel is a collection of photo voltaic cells.
 Photovoltaic is composed of silicon.this cells
