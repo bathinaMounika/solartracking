@@ -26,7 +26,7 @@ So we are introducing our project i.e., AUTOMATIC SOLAR TRACKING SYSTEM.</p>
    *stepdown transformer<br/>
    *bridge rectifier<br/>
    *regulator<br/><br/>
-   *rc filter<br/>
+   *rc filter
 2.Atmel AT89S52
 <br/>
 3.Driver ic (l293d)
@@ -162,11 +162,11 @@ These can be used in  home to power the appliance using  solar power.<br/>
 <h3>feasibility</h3>
 <p>Technical/practical:
      
-     1.Pollution free 
-     2.Safety in Design 
-     3.Usability  
-     4.Reduce human error 
-     5.Portable 
+   *Pollution free <br/>
+   *Safety in Design <br/>
+   *Usability  <br/>
+   *Reduce human error <br/>
+   *Portable <br/>
   <br/></p>
 
 
