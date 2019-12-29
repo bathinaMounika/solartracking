@@ -42,31 +42,31 @@ So we are introducing our project i.e., AUTOMATIC SOLAR TRACKING SYSTEM.</p>
  <p>The AT89S52 is a low-power, high-performance CMOS 8-bit microcontroller with 8k bytes of in-system programmable Flash memory.
  The device is manufactured using Atmel’s high-density non volatile memory technology and is compatible with the industry-standard 80C51 instruction set and pin out. The on-chip Flash allows the program memory to be reprogrammed in-system or by a conventional non volatile memory programmer.</p>
  <h3> features of atmel</h3>
- Compatible with MCS-51® Products
+ *Compatible with MCS-51® Products
  <br/>
-8K Bytes of In-System Programmable (ISP) Flash Memory
+*8K Bytes of In-System Programmable (ISP) Flash Memory
 <br/>
-Endurance: 1000 Write/Erase Cycles
+*Endurance: 1000 Write/Erase Cycles
 <br/>
-4.0V to 5.5V Operating Range
+*4.0V to 5.5V Operating Range
 <br/>
-Fully Static Operation: 0 Hz to 33 MHz
+*Fully Static Operation: 0 Hz to 33 MHz
 <br/>
-256 x 8-bit Internal RAM
+*256 x 8-bit Internal RAM
 <br/>
-32 Programmable I/O Lines
+*32 Programmable I/O Lines
 <br/>
-Three 16-bit Timer/
+*Three 16-bit Timer/
 <br/>
-Eight Interrupt Sources
+*Eight Interrupt Sources
 <br/>
-Watchdog timer
+*Watchdog timer
 <br/>
- two data pointers
+ *two data pointers
  <br/>
-a full duplex serial port
+*a full duplex serial port
 <br/>
-on-chip oscillator
+*on-chip oscillator
 <br/><br/>
 <h3>pin diagram</h3>
 
