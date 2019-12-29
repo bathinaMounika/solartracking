@@ -101,7 +101,10 @@ Made of high resistance element.
   <br/>
     Role of this in our project:-
 It senses the sun light gives the signals to the microcontroller.</p>
-![ldr](https://user-images.githubusercontent.com/53783352/71556650-4a99a900-2a61-11ea-9531-06593ed8f364.jpg)
+
+![ldr](https://user-images.githubusercontent.com/53783352/71556717-c693f100-2a61-11ea-807f-5014122abf1d.jpg)
+
+
 <h3>About solar panel</h3>
 <p>Solar panel is a collection of photo voltaic cells.
 Photovoltaic is composed of silicon.this cells
@@ -112,6 +115,10 @@ We can use an array of solar panels to generate 100w t0 320 watts of power.
   Role of solar panel in our project:-
 It converts  solar energy to electricity.
 </p>
+
+
+![sp](https://user-images.githubusercontent.com/53783352/71556748-3d30ee80-2a62-11ea-8666-24b8a2373768.jpg)
+
 <h3>WORKING</h3>
 <p>Three sensors(LDR) are placed at three directions which are used to sense  the  maximum intensity of light.the output of sensors are fed to microcontroller through in built analog to digital converter.
 The microcontroller controlls the rotation of stepper motor according to inputs from sensors and programme dumped in to it through motor driver circuit.Motor driver circuit guide the motor according to instruction given by microcontroller.
