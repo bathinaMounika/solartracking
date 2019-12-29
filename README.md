@@ -21,7 +21,7 @@ So we are introducing our project i.e., AUTOMATIC SOLAR TRACKING SYSTEM.</p>
  <h3>circuit diagram</h3>
 
  <h3>components required</h3>
- 1.Power supply unit<br/>
+ 1.Power supply unit
      
    *stepdown transformer<br/>
    *bridge rectifier<br/>
