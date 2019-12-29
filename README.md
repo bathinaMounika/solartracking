@@ -21,12 +21,12 @@ So we are introducing our project i.e., AUTOMATIC SOLAR TRACKING SYSTEM.</p>
  <h3>circuit diagram</h3>
 
  <h3>components required</h3>
- 1.Power supply unit
+ 1.Power supply unit<br/>
      
-     1.stepdown transformer
-     1. bridge rectifier
-     1.regulator
-     1.rc filter
+   *stepdown transformer<br/>
+   *bridge rectifier<br/>
+   *regulator<br/><br/>
+   *rc filter<br/>
 2.Atmel AT89S52
 <br/>
 3.Driver ic (l293d)
@@ -68,12 +68,27 @@ a full duplex serial port
 <br/>
 on-chip oscillator
 <br/><br/>
+<h3>pin diagram</h3>
+
+![pindiagram](https://user-images.githubusercontent.com/53783352/71556792-b3cdec00-2a62-11ea-8983-ae6b725e630e.jpg)
+
+<h3>functional diagram</h3>
+
+![functionaldiagram](https://user-images.githubusercontent.com/53783352/71556814-ebd52f00-2a62-11ea-941a-418c3283d09e.jpg)
+
+
+
 <h3>power supply</h3>
   <p>Input to the transformer is 230v,it is stepped down to 12v by using step down transformer.
 This 12v ac supply is converted to dc by using bridge rectifier.
 And it is regulated to 5v by using 7805.
 And it is given to rc filter to remove the ripples.
 And this power supply given to microcontroller and driver circuit and lcd display.<p>
+ 
+ 
+![ps](https://user-images.githubusercontent.com/53783352/71556771-779a8b80-2a62-11ea-9205-6c2b4d361455.jpg)
+
+
   <h3>stepper motor</h3>
   <p>Stepper motor is a electro mechanical device which converts electrical pulses into discrete mechanical movements.
 The speed of the motor shafts rotation is directly related to the input pulses and the length of the rotation is directly related to the number of input pulses applied.
@@ -81,6 +96,9 @@ The speed of the motor shafts rotation is directly related to the input pulses a
 Stepper motor is a electro mechanical device which converts electrical pulses into discrete mechanical movements.
 The speed of the motor shafts rotation is directly related to the input pulses and the length of the rotation is directly related to the number of input pulses applied.
 </p>
+
+![sm](https://user-images.githubusercontent.com/53783352/71556783-96991d80-2a62-11ea-8d74-d630e8036e6c.jpg)
+
 <h3>About motor driver circuit(L293D)</h3>
 <p>Dual H-bridge motor driver ic.
 Controls the dc motor 
@@ -123,6 +141,11 @@ It converts  solar energy to electricity.
 <p>Three sensors(LDR) are placed at three directions which are used to sense  the  maximum intensity of light.the output of sensors are fed to microcontroller through in built analog to digital converter.
 The microcontroller controlls the rotation of stepper motor according to inputs from sensors and programme dumped in to it through motor driver circuit.Motor driver circuit guide the motor according to instruction given by microcontroller.
 </p>
+<h3>kit</h3>
+
+![kit](https://user-images.githubusercontent.com/53783352/71556823-08716700-2a63-11ea-86b6-cb924eb1b358.jpg)
+
+
 <h3>advantages:</h3>
 <p>The solar energy can be reused as it is non renewable resource.  <br/>
 This is also saves money as there is no need to pay for energy used.  <br/>
@@ -131,10 +154,10 @@ there are many kinds of solar trackers like single axis and dual axis they are f
 <h3>/applications</h3>
 <p>This panels can be used to power the traffic light and street lights.<br/><br/>
 These can be used in  home to power the appliance using  solar power.<br/>
-These can be used in industries as more energy can be saved by rotating the panel.<br/>
-It is used to heating the  water.<br/><br/><br/>
-It is used at electric fences.<br/><br/>
-It is used in solar cookers.<br/></p>
+*These can be used in industries as more energy can be saved by rotating the panel.<br/>
+*It is used to heating the  water.<br/>
+*It is used at electric fences.<br/>
+*It is used in solar cookers.<br/></p>
 
 <h3>feasibility</h3>
 <p>Technical/practical:
